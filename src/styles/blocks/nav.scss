@@ -22,6 +22,8 @@
     text-decoration: none;
     color: $typographyPrimary;
 
+    transition: color 400ms;
+
     &:hover {
       color: $colorSecondary;
     }
